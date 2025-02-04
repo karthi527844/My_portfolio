@@ -1,0 +1,28 @@
+.work {
+  /* background-color: #1387812a; */
+  margin-left: 150px;
+}
+
+.work-exp {
+  padding: 60px 0;
+  border: 5px;
+  border-color: black;
+}
+
+.work-exp h2 {
+  font-weight: bold;
+  color: black;
+}
+
+.work-exp hr {
+  color: black;
+  width: 400px;
+  margin: 10px auto;
+}
+
+.work .vertical-timeline-element--work hr {
+  line-height: 1px;
+  margin-left: 0;
+  font-weight: 0;
+  width: 189px;
+}

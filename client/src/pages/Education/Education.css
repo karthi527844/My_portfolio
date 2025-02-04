@@ -1,0 +1,28 @@
+.education {
+  margin: 50px 0;
+  margin-left: 180px;
+  /* background-color: rgba(0, 0, 0, 0.255); */
+}
+
+.education h2 {
+  font-weight: bold;
+  color: black;
+}
+.education hr {
+  color: #000;
+  width: 300px;
+  margin: 10px auto;
+}
+
+.vertical-timeline-element--work hr {
+  color: white;
+  background-color: black;
+  /* border: none; */
+  height: 5px;
+}
+
+.custom-date {
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+}
