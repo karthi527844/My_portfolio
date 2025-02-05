@@ -36,13 +36,13 @@
   font-size: 16px;
 }
 
-.card img {
+.project .card img {
   height: 150px;
   width: 100%;
   border-radius: 8px;
 }
 
-.card-detail-badge {
+.project .card-detail-badge {
   background-color: #138781;
   text-align: center;
   border-radius: 30px;
@@ -51,15 +51,15 @@
   color: white;
 }
 
-.card-image-overly span {
+.project .card-image-overly span {
   display: inline-block;
   margin-left: 5px;
 }
-.card {
+.project .card {
   transition: transform 0.3s ease-in-out;
 }
 
-.card:hover {
+.project .card:hover {
   background-color: azure;
   /* width: 150px; */
   border-radius: 5px;
