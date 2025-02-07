@@ -10,7 +10,7 @@ import { FaLaptopCode } from "react-icons/fa";
 const WorkEx = () => {
   return (
     <>
-      <div className="work">
+      <div className="work" id="work">
         <div className="container work-exp">
           <h2 className="col-12 mt-3 mb-1 text-center">Work Experience</h2>
           <hr />
