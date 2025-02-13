@@ -23,7 +23,7 @@ function App() {
           <WorkEx />
           <Contact />
         </div>
-        <div className="footer mt-3 mb-3 pb-3 ms-3">
+        <div className="footer mt-5 mb-3 pb-3 ms-3">
           <h3 className="text-center">
             <Tada>
               Made with 👉 @karthi527844 &copy; 2025
